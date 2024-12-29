@@ -70,6 +70,7 @@ endmodule
 
 
 **RESULTS:**
+
 The  implementation of  4 bit synchronous up counter and validate functionality using verilog  has performed successfully.
 
 
